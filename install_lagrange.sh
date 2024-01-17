@@ -4,7 +4,7 @@
 
 # Default values to edit
 #Enter URL to appimage
-url="https://github.com/phoenixbyrd/App-Installer/raw/main/lagrange.tar.gz"
+url="https://github.com/bengkelgawai/App-Installer/raw/main/lagrange.tar.gz"
 #Enter name of app
 appname="lagrange"
 #Enter path to icon or system icon name
